@@ -2,7 +2,7 @@
     "name": "unityithub/unitycrm-php",
     "description": "MT5",
     "type": "library",
-    "license": "MT5",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Unityithub\\UnitycrmPhp\\": "src/"
