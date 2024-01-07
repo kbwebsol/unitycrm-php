@@ -1,5 +1,6 @@
 {
     "name": "unityithub/unitycrm-php",
+    "version": "1.0.0",
     "description": "MT5",
     "type": "library",
     "license": "MIT",
@@ -14,6 +15,5 @@
             "email": "karan@itonix.co"
         }
     ],
-    "minimum-stability": "stable",
     "require": {}
 }
