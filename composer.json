@@ -1,0 +1,19 @@
+{
+    "name": "unityithub/unitycrm-php",
+    "description": "MT5",
+    "type": "library",
+    "license": "MT5",
+    "autoload": {
+        "psr-4": {
+            "Unityithub\\UnitycrmPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Karan",
+            "email": "karan@itonix.co"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
